@@ -1,9 +1,9 @@
-<h1 align="center">Hi` , I'm Palak Chhallani</h1>
+<h1 align="center">Hi , I'm Palak Chhallani</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palakchhallani&label=Profile%20views&color=0e75b6&style=flat" alt="palakchhallani" /> </p>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **C,C++,Python**
+- 💬 Ask me about **C,C++,Python,Java, HTML, CSS, JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
